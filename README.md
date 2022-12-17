@@ -1,5 +1,5 @@
 # About me
- ### Telepathic
+ # Telepathic
  
 <img style="border:2px; border-radius:5px;" alt="ShahrokhParazit" src="https://www.uplooder.net/img/image/90/fccc2e2fbd1338855b386a0f98176587/6150811-1.png" width="320" height="240"/>
  
