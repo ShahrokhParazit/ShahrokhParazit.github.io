@@ -20,7 +20,7 @@
 
 # Status
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShahrokhParazit&show_icons=true&theme=chartreuse-dark" alt="Status" />
-  
+
  
 > Language usage
 <div align="center">
