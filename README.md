@@ -12,7 +12,6 @@
 ### Telegram Username
 
 <a href="https://t.me/Difalio">
-  <img align="left" alt="Telegram username" width="30px" src="https://www.iconfinder.com/icons/3069742/download/png/512" style="margin:25px;" />
 @Difalio </a>
 
 # View Page
